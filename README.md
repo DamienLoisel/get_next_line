@@ -2,4 +2,4 @@
 
 ## **Description**
 
-Le projet **get_next_line** consiste à créer une fonction en C qui lit une ligne à la fois depuis un fichier ou un flux d'entrée standard. Cette fonction est utile pour gérer des fichiers ligne par ligne sans avoir à lire tout le fichier en mémoire à la fois.
+The **get_next_line** project involves creating a C function that reads one line at a time from a file or standard input stream. This function is useful for handling files line by line without having to load the entire file into memory at once.
